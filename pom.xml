@@ -175,8 +175,9 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
-
-    <!--真正的引入依赖的地方-->
+    <!--真asdfa地方-->
+    <!--真正asdfasdf地方-->
+    <!--真正的asdfasdf地方-->
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
