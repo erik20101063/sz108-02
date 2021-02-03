@@ -16,7 +16,7 @@ public interface ItemsDao {
 
 
     /***
-     * 查询所有
+     * 查询所有asdfasdf
      * @return
      */
     List<Items> findAll();
